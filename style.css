@@ -75,12 +75,30 @@ table img {
 .mydiv {
   padding: 40px 40px 40px 40px
 }
+.teamdiv {
+  padding: 40px 40px 40px 40px
+}
+.teamdiv {
+  border:#000000 4px solid;
+}
+.teamdiv td{
+  border:#000000 2px solid;
+  padding: 20px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size:20px;
+  color:#000000;
+}
 .photo {
+  width:200px;
+  height:200px;
+}
+.phototeam {
   width:200px;
   height:200px;
 }
 
 .column {
+  font-family: sans-serif, "Sans Serif", sans-serif, sans-serif;
   float: left;
   width: 20%;
   padding: 10px;
